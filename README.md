@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angiemelo
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning web development at the Open University
+- 🌱 I’m currently learning software development at the Open University
 - 💞️ I’m looking to collaborate on programming projects
 - ⚡ Fun fact: I breed snakes
 
